@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Survivalsmpssi.aternos.me",
+    "ip": "Survivalsmpssi.aternos.me:26760",
     "port": 26760,
     "version": "1.21.11"
   },
